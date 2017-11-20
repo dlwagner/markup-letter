@@ -1,3 +1,16 @@
 README
 
-This project is part of the Mozilla Learn Web Development series. 
+This project is part of the Mozilla Learn Web Development series. The goal of this project was to demonstrate basic and advanced HTML markup skills. Skills demonstrated here inlcude the proper use of the following:
+	- document formation
+	- html5 identification
+	- CSS file inclusion
+	- CSS ...
+	- <head> section use including <meta> tags and language specification
+	- header tags and paragraph tags
+	- Ordered and Unordered lists (<ol>,ul>)
+	- description lists <dl>
+	- links <a href>
+	- <abbr> tag
+	- author citation 
+	- Subscript/Superscript tags
+	- HTML entities (&gt, &times)
